@@ -32,10 +32,10 @@
     </parent>
 
     <scm>
-        <url>https://github.com/wso2-extensions/carbon-identity-saml-common.git</url>
-        <developerConnection>scm:git:https://github.com/wso2-extensions/carbon-identity-saml-common.git
+        <url>https://github.com/Miranlfk/carbon-identity-saml-common.git</url>
+        <developerConnection>scm:git:https://github.com/Miranlfk/carbon-identity-saml-common.git
         </developerConnection>
-        <connection>scm:git:https://github.com/wso2-extensions/carbon-identity-saml-common.git</connection>
+        <connection>scm:git:https://github.com/Miranlfk/carbon-identity-saml-common.git</connection>
         <tag>HEAD</tag>
     </scm>
 
